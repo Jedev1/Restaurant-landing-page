@@ -21,7 +21,11 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
 ## 🧠 Tecnologias utilizadas:
 
 O site **ainda está em desenvolvimento**, pois estou em constante aprendizado. Mas até aqui utilizei as tecnologias:
-
+<p align="center">
+  <a href="https://github.com/Jedev1">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
 
 
 ## 📚 Alguns conceitos aplicados
