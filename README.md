@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](restaurant-preview.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/Meu-portifolio/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://jedev1.github.io/Restaurant-landing-page/">Confira o projeto aqui</a></h4>
 
 ---
 
