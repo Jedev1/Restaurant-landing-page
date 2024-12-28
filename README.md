@@ -1,6 +1,6 @@
 <h1 align="center">Landing page de restaurante - João 👾</h1>
 
-![Imagem do projeto finalizado](Imagens/portifolio.png)
+![Imagem do projeto finalizado](restaurant-preview.png)
 
 <h4 align="center"><a href="https://jedev1.github.io/Meu-portifolio/">Confira o projeto aqui</a></h4>
 
