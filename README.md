@@ -14,7 +14,7 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
 
 - **Home:** Apresentação da loja;
 - **Sobre mim:** Falo um pouco sobre a loja o que ela oferece;
-- **DSepoimentos:** Os comentários **ficticios** das pessoas sobre a loja;
+- **Depoimentos:** Os comentários **ficticios** das pessoas sobre a loja;
 - **Contato:** Área com meios para contato da loja;
 - **Redes:** Redes sociais disponíveis no rodapé do site.
 
